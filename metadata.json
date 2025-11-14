@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Fitness Pal",
+  "description": "An AI-powered fitness assistant that helps you track meals, calculate calorie needs, and generate workout plans using Gemini. Simply upload photos of your meals for nutritional analysis and get personalized gym routines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
